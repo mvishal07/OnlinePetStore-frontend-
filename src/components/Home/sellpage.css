@@ -1,0 +1,15 @@
+
+.bg-container{
+    
+    opacity: 0.9;
+    margin-top: 0;
+    
+    
+}
+.background{
+    background-image: url("https://img.freepik.com/free-photo/berner-sennenhund-puppies-yellow_155003-29997.jpg?t=st=1712914202~exp=1712917802~hmac=2b8cc7d710dd12c72f83e5ba0399b8e7d48b2d55deb6cb901ee72f7e688da178&w=996");
+    background-size: cover; 
+    height: 100vh;
+    padding: 5%;
+    overflow: auto;
+}
