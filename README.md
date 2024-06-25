@@ -9,7 +9,7 @@ HOME PAGE
 ![Screenshot 2024-06-24 212620](https://github.com/mvishal07/OnlinePetStore-frontend-/assets/108283119/95d8863d-d5d3-4310-bf88-19bad00274ba)
 
 
-Uploading frontend demo - Trim.mp4…
+
 
 
 
